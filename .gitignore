@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Datos sensibles o simulados
+data/
+
+# Tests temporales
+tests/
+
+# Archivos de diagramas editables
+*.drawio
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de editores
+.vscode/
+.idea/
